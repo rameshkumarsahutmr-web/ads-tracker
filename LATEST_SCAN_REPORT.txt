@@ -1,0 +1,90 @@
+==============================================================================
+   OLLYFLIX AUTONOMOUS AI AD TRACKER & STREAM RESOLVER REPORT v7.0
+==============================================================================
+
+Target URL:    https://hanna427def.com/play/tt6836936?autoplay=1
+Scanned Time:  2026-10-04T05:44:28.849Z
+Duration:      12.6s
+
+=== 1. DIRECT PLAYABLE VIDEO & MASTER STREAMS ===
+▶ https://i-arch-400.jerso441ceg.com/stream2/i-arch-400/0259b941ff4d16d2366e232ef1c77438/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT21ERStWTXVFeNRVU0o1VO1mWXVFeOpWRz4kMGtWTXlVNaRUW5lFVCpmTEVVP:1791096273:110.225.227.34:3ad956ad6f45647b50a60f5cfdc1f9e5f19b315c6ef6f70cbdbf0e83ae8f0fbd:=0EVFdHTqlUeONFN51kajVXT6FVP/index.m3u8
+  CDN:      i-arch-400.jerso441ceg.com
+  Referer:  https://hanna427def.com/
+  ExoPlayer Format:
+    MediaItem.fromUri("https://i-arch-400.jerso441ceg.com/stream2/i-arch-400/0259b941ff4d16d2366e232ef1c77438/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT21ERStWTXVFeNRVU0o1VO1mWXVFeOpWRz4kMGtWTXlVNaRUW5lFVCpmTEVVP:1791096273:110.225.227.34:3ad956ad6f45647b50a60f5cfdc1f9e5f19b315c6ef6f70cbdbf0e83ae8f0fbd:=0EVFdHTqlUeONFN51kajVXT6FVP/index.m3u8")
+    Headers: Referer -> https://hanna427def.com/
+
+▶ https://cdn30091.jerso441ceg.com/stream2/i-arch-400/0259b941ff4d16d2366e232ef1c77438/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT21ERStWTXVFeNRVU0o1VO1mWXVFeOpWRz4kMGtWTXlVNaRUW5lFVCpmTEVVP:1791096273:110.225.227.34:3ad956ad6f45647b50a60f5cfdc1f9e5f19b315c6ef6f70cbdbf0e83ae8f0fbd:=0EVFdHTqlUeONFN51kajVXT6FVP/index.m3u8
+  CDN:      cdn30091.jerso441ceg.com
+  Referer:  https://hanna427def.com/
+  ExoPlayer Format:
+    MediaItem.fromUri("https://cdn30091.jerso441ceg.com/stream2/i-arch-400/0259b941ff4d16d2366e232ef1c77438/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT21ERStWTXVFeNRVU0o1VO1mWXVFeOpWRz4kMGtWTXlVNaRUW5lFVCpmTEVVP:1791096273:110.225.227.34:3ad956ad6f45647b50a60f5cfdc1f9e5f19b315c6ef6f70cbdbf0e83ae8f0fbd:=0EVFdHTqlUeONFN51kajVXT6FVP/index.m3u8")
+    Headers: Referer -> https://hanna427def.com/
+
+▶ https://cdn30091.jerso441ceg.com/stream2/i-arch-400/0259b941ff4d16d2366e232ef1c77438/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT21ERStWTXVFeNRVU0o1VO1mWXVFeOpWRz4kMGtWTXlVNaRUW5lFVCpmTEVVP:1791096273:110.225.227.34:3ad956ad6f45647b50a60f5cfdc1f9e5f19b315c6ef6f70cbdbf0e83ae8f0fbd:=0EVFdHTqlUeONFN51kajVXT6FVP/360/index.m3u8
+  CDN:      cdn30091.jerso441ceg.com
+  Referer:  https://hanna427def.com/
+  ExoPlayer Format:
+    MediaItem.fromUri("https://cdn30091.jerso441ceg.com/stream2/i-arch-400/0259b941ff4d16d2366e232ef1c77438/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT21ERStWTXVFeNRVU0o1VO1mWXVFeOpWRz4kMGtWTXlVNaRUW5lFVCpmTEVVP:1791096273:110.225.227.34:3ad956ad6f45647b50a60f5cfdc1f9e5f19b315c6ef6f70cbdbf0e83ae8f0fbd:=0EVFdHTqlUeONFN51kajVXT6FVP/360/index.m3u8")
+    Headers: Referer -> https://hanna427def.com/
+
+▶ https://cdn30091.jerso441ceg.com/stream2/i-arch-400/0259b941ff4d16d2366e232ef1c77438/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT21ERStWTXVFeNRVU0o1VO1mWXVFeOpWRz4kMGtWTXlVNaRUW5lFVCpmTEVVP:1791096273:110.225.227.34:3ad956ad6f45647b50a60f5cfdc1f9e5f19b315c6ef6f70cbdbf0e83ae8f0fbd:=0EVFdHTqlUeONFN51kajVXT6FVP/480/index.m3u8
+  CDN:      cdn30091.jerso441ceg.com
+  Referer:  https://hanna427def.com/
+  ExoPlayer Format:
+    MediaItem.fromUri("https://cdn30091.jerso441ceg.com/stream2/i-arch-400/0259b941ff4d16d2366e232ef1c77438/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT21ERStWTXVFeNRVU0o1VO1mWXVFeOpWRz4kMGtWTXlVNaRUW5lFVCpmTEVVP:1791096273:110.225.227.34:3ad956ad6f45647b50a60f5cfdc1f9e5f19b315c6ef6f70cbdbf0e83ae8f0fbd:=0EVFdHTqlUeONFN51kajVXT6FVP/480/index.m3u8")
+    Headers: Referer -> https://hanna427def.com/
+
+▶ https://i-arch-400.jerso441ceg.com/stream2/i-arch-400/0259b941ff4d16d2366e232ef1c77438/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT21ERStWTXVFeNRVU0o1VO1mWXVFeOpWRz4kMGtWTXlVNaRUW5lFVCpmTEVVP:1791096279:110.225.227.34:3ad956ad6f45647b50a60f5cfdc1f9e5f19b315c6ef6f70cbdbf0e83ae8f0fbd:=0EVFdHTqlUeONFN51kajVXT6FVP/index.m3u8
+  CDN:      i-arch-400.jerso441ceg.com
+  Referer:  https://hanna427def.com/
+  ExoPlayer Format:
+    MediaItem.fromUri("https://i-arch-400.jerso441ceg.com/stream2/i-arch-400/0259b941ff4d16d2366e232ef1c77438/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT21ERStWTXVFeNRVU0o1VO1mWXVFeOpWRz4kMGtWTXlVNaRUW5lFVCpmTEVVP:1791096279:110.225.227.34:3ad956ad6f45647b50a60f5cfdc1f9e5f19b315c6ef6f70cbdbf0e83ae8f0fbd:=0EVFdHTqlUeONFN51kajVXT6FVP/index.m3u8")
+    Headers: Referer -> https://hanna427def.com/
+
+▶ https://cdn30091.jerso441ceg.com/stream2/i-arch-400/0259b941ff4d16d2366e232ef1c77438/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT21ERStWTXVFeNRVU0o1VO1mWXVFeOpWRz4kMGtWTXlVNaRUW5lFVCpmTEVVP:1791096279:110.225.227.34:3ad956ad6f45647b50a60f5cfdc1f9e5f19b315c6ef6f70cbdbf0e83ae8f0fbd:=0EVFdHTqlUeONFN51kajVXT6FVP/index.m3u8
+  CDN:      cdn30091.jerso441ceg.com
+  Referer:  https://hanna427def.com/
+  ExoPlayer Format:
+    MediaItem.fromUri("https://cdn30091.jerso441ceg.com/stream2/i-arch-400/0259b941ff4d16d2366e232ef1c77438/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT21ERStWTXVFeNRVU0o1VO1mWXVFeOpWRz4kMGtWTXlVNaRUW5lFVCpmTEVVP:1791096279:110.225.227.34:3ad956ad6f45647b50a60f5cfdc1f9e5f19b315c6ef6f70cbdbf0e83ae8f0fbd:=0EVFdHTqlUeONFN51kajVXT6FVP/index.m3u8")
+    Headers: Referer -> https://hanna427def.com/
+
+▶ https://cdn30091.jerso441ceg.com/stream2/i-arch-400/0259b941ff4d16d2366e232ef1c77438/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT21ERStWTXVFeNRVU0o1VO1mWXVFeOpWRz4kMGtWTXlVNaRUW5lFVCpmTEVVP:1791096279:110.225.227.34:3ad956ad6f45647b50a60f5cfdc1f9e5f19b315c6ef6f70cbdbf0e83ae8f0fbd:=0EVFdHTqlUeONFN51kajVXT6FVP/360/index.m3u8
+  CDN:      cdn30091.jerso441ceg.com
+  Referer:  https://hanna427def.com/
+  ExoPlayer Format:
+    MediaItem.fromUri("https://cdn30091.jerso441ceg.com/stream2/i-arch-400/0259b941ff4d16d2366e232ef1c77438/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT21ERStWTXVFeNRVU0o1VO1mWXVFeOpWRz4kMGtWTXlVNaRUW5lFVCpmTEVVP:1791096279:110.225.227.34:3ad956ad6f45647b50a60f5cfdc1f9e5f19b315c6ef6f70cbdbf0e83ae8f0fbd:=0EVFdHTqlUeONFN51kajVXT6FVP/360/index.m3u8")
+    Headers: Referer -> https://hanna427def.com/
+
+▶ https://cdn30091.jerso441ceg.com/stream2/i-arch-400/0259b941ff4d16d2366e232ef1c77438/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT21ERStWTXVFeNRVU0o1VO1mWXVFeOpWRz4kMGtWTXlVNaRUW5lFVCpmTEVVP:1791096279:110.225.227.34:3ad956ad6f45647b50a60f5cfdc1f9e5f19b315c6ef6f70cbdbf0e83ae8f0fbd:=0EVFdHTqlUeONFN51kajVXT6FVP/480/index.m3u8
+  CDN:      cdn30091.jerso441ceg.com
+  Referer:  https://hanna427def.com/
+  ExoPlayer Format:
+    MediaItem.fromUri("https://cdn30091.jerso441ceg.com/stream2/i-arch-400/0259b941ff4d16d2366e232ef1c77438/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT21ERStWTXVFeNRVU0o1VO1mWXVFeOpWRz4kMGtWTXlVNaRUW5lFVCpmTEVVP:1791096279:110.225.227.34:3ad956ad6f45647b50a60f5cfdc1f9e5f19b315c6ef6f70cbdbf0e83ae8f0fbd:=0EVFdHTqlUeONFN51kajVXT6FVP/480/index.m3u8")
+    Headers: Referer -> https://hanna427def.com/
+
+
+=== 1.1 ALL AUDIO LANGUAGE TRACKS IDENTIFIED ===
+🔊 [Default (Original)] -> https://i-arch-400.jerso441ceg.com/stream2/i-arch-400/0259b941ff4d16d2366e232ef1c77438/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT21ERStWTXVFeNRVU0o1VO1mWXVFeOpWRz4kMGtWTXlVNaRUW5lFVCpmTEVVP:1791096273:110.225.227.34:3ad956ad6f45647b50a60f5cfdc1f9e5f19b315c6ef6f70cbdbf0e83ae8f0fbd:=0EVFdHTqlUeONFN51kajVXT6FVP/index.m3u8
+🔊 [Hindi         ] -> https://i-arch-400.jerso441ceg.com/stream2/i-arch-400/0259b941ff4d16d2366e232ef1c77438/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT21ERStWTXVFeNRVU0o1VO1mWXVFeOpWRz4kMGtWTXlVNaRUW5lFVCpmTEVVP:1791096279:110.225.227.34:3ad956ad6f45647b50a60f5cfdc1f9e5f19b315c6ef6f70cbdbf0e83ae8f0fbd:=0EVFdHTqlUeONFN51kajVXT6FVP/index.m3u8
+
+=== 2. SAFE VIDEO CDNs (NEVER BLOCK) ===
++ cdn.jsdelivr.net
++ cdn30091.jerso441ceg.com
++ fonts.googleapis.com
++ fonts.gstatic.com
++ gstatic.com
++ i-arch-400.jerso441ceg.com
++ jerso441ceg.com
+
+=== 3. AD DOMAINS & TRACKERS DETECTED (BLOCK THESE) ===
+• cvt-s2.agl002.online                [🎬 In-Stream Video Ads (VAST/VMAP)] -> Blocked Network Request (xhr)
+• p2p.stats.rip                       [🕵️ Stealth Telemetry & Beacons] -> Blocked Network Request (image)
+
+=== 4. AD KEYWORDS FOR CLOUDFLARE & APP ===
+[
+  "agl002",
+  "cvt-s2",
+  "online",
+  "stats"
+]
