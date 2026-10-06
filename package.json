@@ -1,5 +1,13 @@
 {
+  "name": "ads-tracker",
+  "version": "8.0.0",
+  "description": "Ollyflix Ads Tracker",
+  "main": "live_tracker.js",
+  "scripts": {
+    "start": "node live_tracker.js"
+  },
   "dependencies": {
-    "acorn": "^8.18.0"
+    "acorn": "^8.18.0",
+    "puppeteer": "^22.0.0"
   }
 }

@@ -29,7 +29,7 @@ try {
   } catch(e2) {}
 }
 
-const PORT = 3300;
+const PORT = process.env.PORT || 3300;
 const BASE_DIR = __dirname;
 const CACHE_FILE = path.join(BASE_DIR, 'ad_blocklist_cache.txt');
 const REPORT_TXT = path.join(BASE_DIR, 'LATEST_SCAN_REPORT.txt');

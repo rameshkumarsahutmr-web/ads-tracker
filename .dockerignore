@@ -1,0 +1,7 @@
+node_modules
+npm-debug.log
+.git
+.env
+ad_blocklist_cache.txt
+LATEST_SCAN_DATA.json
+LATEST_SCAN_REPORT.txt
